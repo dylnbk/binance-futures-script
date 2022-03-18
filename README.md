@@ -1,5 +1,5 @@
 # binance-futures-script
-A basic python script for trading futures on Binance
+A simple python script for trading futures on Binance
 
 # info
 I made this script to practice Python and trade some digital assets. 
